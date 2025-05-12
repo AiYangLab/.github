@@ -2,4 +2,4 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/AiYangLab?style=social)
 
-Projects, Ideas, Blueprints and Previews in AiYangLab.
+<!-- Projects, Ideas, Blueprints and Previews in AiYangLab. -->
